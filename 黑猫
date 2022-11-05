@@ -1,0 +1,7 @@
+echo "# -TT" >> README.md
+git init
+git添加README.md
+git commit -m "first commit"
+git分支-M主
+git远程添加源git@github.com:qq239/-TT.git
+git push -u origin main
